@@ -12,8 +12,6 @@ To see the presentation live, visit [programming-quotes.netlify.com](https://pro
 
 ```shell
 git clone git@github.com:dzello/programming-quotes --recurse-submodules
-
-cd programming-quotes
 ```
 
 3. Change directories and run hugo in server mode:
