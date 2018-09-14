@@ -11,7 +11,7 @@ To see the presentation live, visit [programming-quotes.netlify.com](https://pro
 2. Clone this repository and change directories:
 
 ```shell
-git clone git@github.com:dzello/programming-quotes
+git clone git@github.com:dzello/programming-quotes --recurse-submodules
 
 cd programming-quotes
 ```
