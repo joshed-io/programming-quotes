@@ -7,3 +7,6 @@ theme = "reveal-hugo"
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[markup]
+defaultMarkdownHandler = "blackfriday"
