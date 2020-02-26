@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "reveal-hugo"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
