@@ -10,3 +10,6 @@ unsafe = true
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
+[markup]
+defaultMarkdownHandler = "blackfriday"
